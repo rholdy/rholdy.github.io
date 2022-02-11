@@ -1,12 +1,11 @@
 # Site settings
 title: RHOLDY.COM 
-email: rholdy@gmail.com
+email: holdy@holdy.dev
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Ryan Holdaway. I am a software engineer and this is my website.
+  Copyright 2022 -- Holdy
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rholdy.com" # the base hostname & protocol for your site
 twitter_username: ryan_holdaway
-github_username:  rholdy
 
 # Build settings
 markdown: kramdown

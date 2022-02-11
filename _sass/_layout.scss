@@ -94,6 +94,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    flex-shrink: 0;
 }
 
 .footer-heading {
@@ -163,6 +164,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    flex: 1 0 auto;
 }
 
 .page-heading {
