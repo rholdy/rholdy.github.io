@@ -10,17 +10,17 @@ My homies [Trevor](https://www.linkedin.com/in/trevormckendrick/) and [Joshua](h
 
 ---
 
-**[Martiancraft](martiancraft.com/careers.html)**  
+**[Martiancraft](https://martiancraft.com/careers.html)**  
 You'll get the opportunity to work with my homie [Julia](https://www.linkedin.com/in/julia-richert/)  
 
 ---
 
-**[Notion](notion.so/careers)**  
+**[Notion](https://notion.so/careers)**  
 My homie [Zoe](https://www.linkedin.com/in/zoe-ludwig/) will teach you how to make the best documents 
 
 ---
 
-**[Triplebyte](boards.greenhouse.io/triplebyte/ )**  
+**[Triplebyte](https://boards.greenhouse.io/triplebyte/ )**  
 Help my homie [Shri](https://www.linkedin.com/in/shriram-apte/) help people get jobs. So meta. 
 
 ---
