@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Holdy's Hiring Homies - Life is short, work with cool people"
+date:   2022-02-10 4:20:00
+categories: hiring homies 
+---
+
+
+## Life is Short, Work With Cool People
+
+The compliment I've received in a professional setting that meant the most to me was the time a coworker wrote in a performance review that "Your network is unbounded." 
+
+If you and I have worked together, or you have known me very long, there is a very good chance that I've tried to recruit you for something. It is not because I am slow-rolling an MLM, its because I care a lot about the people I work with. 
+
+I've been doing this for years, and I have no plans to slow down. Because I've been at it for years, and because there are many of you that have been on the receiving end of a Holdy Recruiting Pitch ™️, its not uncommon for a friend with a role they're trying to fill to come to me for a referral, or a friend that is job searching to ask if I know anything cool that they could work on. 
+
+I'm getting too old to keep all those open roles in my head and I figured that if I was going to write them down anyway, I might as well publish the list for any of my homies to browse. 
+
+
+
+
