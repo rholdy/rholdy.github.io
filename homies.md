@@ -52,6 +52,10 @@ Its rare to find a super early role with a team with the track record of my homi
 Bunch of homies at Bloomtech(fka Lambda School). Great team, important mission, some of the best times of my life working with this group. 
 
 ---
+**[Loom](https://www.loom.com/careers)**  
+Loom is one of my favorite products to use, and you could work with my homie [Nate](https://www.linkedin.com/in/nwthomas-dev/) 
+
+---
 
 
 ### **My Jobs**
