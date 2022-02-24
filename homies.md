@@ -48,6 +48,10 @@ I'd seriously consider taking this job just for the Barry Bonds hot takes you'd 
 Its rare to find a super early role with a team with the track record of my homie [Spencer](https://www.linkedin.com/in/spencer-peterson-1286757/)
 
 ---
+**[Black Thorn](https://www.linkedin.com/jobs/view/2701317017/)**  
+Here's a role with an early stage team building software for the construction industry. Work with my homie [Rob](https://www.linkedin.com/in/rob-mayfield/)
+
+---
 **[Bloomtech](https://www.bloomtech.com/careers)**  
 Bunch of homies at Bloomtech(fka Lambda School). Great team, important mission, some of the best times of my life working with this group. 
 
