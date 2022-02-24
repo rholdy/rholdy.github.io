@@ -9,3 +9,6 @@ twitter_username: ryan_holdaway
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-45550304-1
