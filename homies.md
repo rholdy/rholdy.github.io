@@ -60,6 +60,10 @@ Bunch of homies at Bloomtech(fka Lambda School). Great team, important mission, 
 Loom is one of my favorite products to use, and you could work with my homie [Nate](https://www.linkedin.com/in/nwthomas-dev/) 
 
 ---
+**[Retool](https://www.retool.com/careers)**  
+Seems like every team I know of is using Retool for something. You could work there with my homie [Tommy](https://www.linkedin.com/in/tommycollison/
+
+---
 
 
 ### **My Jobs**
