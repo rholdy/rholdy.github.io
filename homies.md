@@ -61,7 +61,7 @@ Loom is one of my favorite products to use, and you could work with my homie [Na
 
 ---
 **[Retool](https://www.retool.com/careers)**  
-Seems like every team I know of is using Retool for something. You could work there with my homie [Tommy](https://www.linkedin.com/in/tommycollison/
+Seems like every team I know of is using Retool for something. You could work there with my homie [Tommy](https://www.linkedin.com/in/tommycollison/)
 
 ---
 
