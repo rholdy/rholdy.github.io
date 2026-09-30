@@ -737,7 +737,7 @@
         <p class="inning reveal" style="justify-content:center">Bottom of the 9th</p>
         <h2 class="h2 reveal">Let's play <i>two.</i></h2>
         <p class="lead reveal">Building a team, hiring a leader, or looking for someone to coach yours? Inbox is open.</p>
-        <a class="email reveal" href="mailto:holdy@holdy.dev">holdy@holdy.dev</a>
+        <a class="email reveal" href="mailto:ryan@rholdy.com">ryan@rholdy.com</a>
         <div class="cta reveal">
           <button class="btn primary" id="copy" type="button">Copy email</button>
           <a class="btn" href="https://x.com/Ryan_Holdaway">X / Twitter</a>
@@ -760,7 +760,7 @@
     const $ = (s) => document.querySelector(s);
     $('#yr').textContent = new Date().getFullYear();
 
-    console.log('%cLooking at the source? We should talk. holdy@holdy.dev', 'font: 900 16px sans-serif; color: #e03a44');
+    console.log('%cLooking at the source? We should talk. ryan@rholdy.com', 'font: 900 16px sans-serif; color: #e03a44');
 
     /* reveal on scroll */
     const io = new IntersectionObserver((entries) => {
@@ -916,8 +916,8 @@
     const toast = $('#toast');
     const say = (msg) => { toast.textContent = msg; toast.classList.add('show'); setTimeout(() => toast.classList.remove('show'), 2200); };
     $('#copy').addEventListener('click', async () => {
-      try { await navigator.clipboard.writeText('holdy@holdy.dev'); say('Copied. Now go send it.'); }
-      catch { location.href = 'mailto:holdy@holdy.dev'; }
+      try { await navigator.clipboard.writeText('ryan@rholdy.com'); say('Copied. Now go send it.'); }
+      catch { location.href = 'mailto:ryan@rholdy.com'; }
     });
 
     /* ↑↑↓↓←→←→BA = home run */
